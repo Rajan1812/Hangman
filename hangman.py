@@ -15,7 +15,7 @@ def select(word_file):
   word=random.choice(word_list)
   #print word
   word_size=len(word)-1
-  print word
+#  print word
   print("*"*word_size)
   star_list = ["*"] * word_size
   return word
