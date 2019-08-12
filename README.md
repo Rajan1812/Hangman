@@ -1,6 +1,6 @@
 # Hangman
 Description:- 
-it is a basic hangman game, that let user guess a certain word. The users are given few attempts as per their choice to do so.
+it is a basic hangman game, that let users guess a certain word. The users are given few attempts as per their choice to do so.
 
 Setup:- 
 clone the repo and execute the script "python hangman.py"
